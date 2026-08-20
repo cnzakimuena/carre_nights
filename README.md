@@ -1,5 +1,5 @@
 # Carré Nights
-Léon Carré 1001 Nights illustrations with accompanying excerpts from the J. C. Mardrus French translation (1959) and the E. P. Mathers English translation (2002). A script for automated generation of the anthology is provided.
+Léon Carré 1001 Nights illustrations with accompanying excerpts from the J. C. Mardrus French translation (1959) and the E. P. Mathers English translation (2002). A script for automated generation of the anthology compatible with TeX v3.14159265 is provided.
 
 For automated generation, the repository should at minimum initially contain the following files in the structure shown below:
 
