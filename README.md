@@ -37,7 +37,9 @@ Usage:
 python generator.py
 ```
 
-![example image](figure.jpg)
+<p align="center">
+    <img src="figure.jpg" alt="example image" height="500">
+</p>
 
 ### References
 
