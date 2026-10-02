@@ -4,18 +4,21 @@ Léon Carré 1001 Nights illustrations with accompanying excerpts from the J. C.
 For automated generation, the repository should at minimum initially contain the following files in the structure shown below:
 
 ```text
-carre_nights/
-├── document/
-│   ├── illustrations/
-│   │   ├── volume_folder/
-│   │   │   ├── image_file.jpg
-│   │   │   └── ...
-│   │   └── ...
-│   └── References.bib
-├── Carre_nights_starter.tex
-├── Carre_nights_text.csv
-├── generator.py
-└── requirements.txt
+carre_nights
+|   Carre_nights_starter.tex
+|   Carre_nights_text.csv
+|   generator.py
+|   requirements.txt
+|       
+\---document
+    |   References.bib
+    |   
+    \---illustrations
+        +---volume_folder
+        |       image_file.jpg
+        |       ...
+        |       
+        \---...
 ```
 
 Environment setup:
